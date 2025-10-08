@@ -4,10 +4,10 @@ An End-to-end LLM project named as **clinical assistant**. Classifies patient qu
 ## 📚 Table of Contents
 
 - [Overview](#-overview)
-- [Aim & Objectives](#-aim-&-objectives)
+- [Aim & Objectives](#-aim-and-objectives)
 - [Dataset Description](#-dataset-description)
 - [System Design](#-system-design)
-- [Challenges & Fixes](#-challenges-&-fixes)
+- [Challenges & Fixes](#-challenges-and-fixes)
 - [Contact Information](#-contact-information)
 
 ---
@@ -35,7 +35,7 @@ The data for this project was sourced from the MedQuAD dataset **[Kaggle](https:
 
 ---
 
-## 🧩  System Design
+## 🧩 System Design
 
 ![system-design-visual](https://github.com/user-attachments/assets/03f757a9-1d19-453d-8fb5-c874b144c295)
 
