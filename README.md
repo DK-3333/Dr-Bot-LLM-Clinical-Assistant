@@ -18,7 +18,7 @@ This LLM project was designed towards a **patient-centered LLM pipeline** that t
 
 ---
 
-## 📊 Aim & Objectives
+## 📊 Aim and Objectives
 
 1) **Aim** : Develop an LLM-powered clinical assistant (Dr-Bot) that can receive real, patient-initiated questions and return concise, medically grounded, and empathetic answers—safely. The system should be explainable, reproducible, and easy to evaluate by patients and clinicians.
 
