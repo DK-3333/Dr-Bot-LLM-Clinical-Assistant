@@ -4,12 +4,10 @@ An End-to-end LLM project named as **clinical assistant**. Classifies patient qu
 ## 📚 Table of Contents
 
 - [Overview](#-overview)
-- [Problem Statement](#-problem-statement)
+- [Aim & Objectives](#-aim-&-objectives)
 - [Dataset Description](#-dataset-description)
-- [Sample Visuals](#-sample-visuals)
-- [Technologies Used](#-technologies-used)
-- [Key Takeaways](#-key-takeaways)
-- [Reports](#-reports)
+- [System Design](#-system-design)
+- [Challenges & Fixes](#-challenges-&-fixes)
 - [Contact Information](#-contact-information)
 
 ---
